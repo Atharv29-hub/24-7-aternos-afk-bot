@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Ninjasmp14263.aternos.me",
-    "port": 20685,
+    "ip": "mc_stan.aternos.me",
+    "port": 56382,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "Atharv"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to SoloPlayz!",
+        "Subscribe to Atharv!",
         "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
